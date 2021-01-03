@@ -36,6 +36,7 @@ d.	Submit Order
 a.	Fetch Order Data
 
 ### **SEQUENCE DIAGRAM**
+![sequenceDiagram](https://user-images.githubusercontent.com/69358635/103472092-123f5000-4dc4-11eb-94ee-13e3504e8cf3.png)
 
  
 ### **REFERENCES**
