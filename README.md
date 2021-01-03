@@ -9,37 +9,37 @@ We are developing an mobile application to change from manual ordering system to
 ### **OBJECTIVES**
 The main objectives of this project is to:
 
-- •	Make the ordering flow more systematic
-- •	Change the database management from manual to digital
-- •	Reduce the amount of workers in the restaurant
-- •	Make the customers feel more comfortable at the restaurant
+- 	Make the ordering flow more systematic
+- 	Change the database management from manual to digital
+- 	Reduce the amount of workers in the restaurant
+- 	Make the customers feel more comfortable at the restaurant
 
 ### **FEATURES AND FUNCTIONALITIES**
--•	All menu available display
--•	Firebase Cloud Firestore
--•	Admin Authentification 
--•	Customers Order 
+- All menu available display
+-	Firebase Cloud Firestore
+-	Admin Authentification 
+-	Customers Order 
 
 ### **SCREEN NAVIGATION AND WIDGETS**
 1.	Main Page
--a.	Customers : Input table number
--b.	Admin : Login
+- a.	Customers : Input table number
+- b.	Admin : Login
 2.	Dashboard
--a.	Display Menus
--b.	Select Menus
+- a.	Display Menus
+- b.	Select Menus
 3.	Order Page
--a.	Order Menus
--b.	Suggestion Related Menus
--c.	Quantities
--d.	Submit Order
+- a.	Order Menus
+- b.	Suggestion Related Menus
+- c.	Quantities
+- d.	Submit Order
 4.	Admin Page
--a.	Fetch Order Data
+- a.	Fetch Order Data
 
 ### **SEQUENCE DIAGRAM**
 ![sequenceDiagram](https://user-images.githubusercontent.com/69358635/103472092-123f5000-4dc4-11eb-94ee-13e3504e8cf3.png)
 
  
 ### **REFERENCES**
-Flutter Tutorial – Cloud Firestore | Flutter Firestore CRUD | Flutter Firestrore Tutorial; https://www.youtube.com/watch?v=lyZQa7hqoVY
-Flutter Development; https://flutter.dev/docs/development 
+- Flutter Tutorial – Cloud Firestore | Flutter Firestore CRUD | Flutter Firestrore Tutorial; https://www.youtube.com/watch?v=lyZQa7hqoVY
+- Flutter Development; https://flutter.dev/docs/development 
 
