@@ -20,7 +20,7 @@ The main objectives of this project is to:
 •	Admin Authentification 
 •	Customers Order 
 
-SCREEN NAVIGATION AND WIDGETS
+### **SCREEN NAVIGATION AND WIDGETS**
 1.	Main Page
 a.	Customers : Input table number
 b.	Admin : Login
@@ -35,9 +35,10 @@ d.	Submit Order
 4.	Admin Page
 a.	Fetch Order Data
 
-SEQUENCE DIAGRAM
+### **SEQUENCE DIAGRAM**
+![alt text](sequenceDiagram.png)
  
-REFERENCES
+### **REFERENCES**
 Flutter Tutorial – Cloud Firestore | Flutter Firestore CRUD | Flutter Firestrore Tutorial; https://www.youtube.com/watch?v=lyZQa7hqoVY
 Flutter Development; https://flutter.dev/docs/development 
 
