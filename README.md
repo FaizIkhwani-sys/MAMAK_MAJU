@@ -36,7 +36,7 @@ d.	Submit Order
 a.	Fetch Order Data
 
 ### **SEQUENCE DIAGRAM**
-![alt text](sequenceDiagram.png)
+![](images/filename%20sequenceDiagram.png)
  
 ### **REFERENCES**
 Flutter Tutorial – Cloud Firestore | Flutter Firestore CRUD | Flutter Firestrore Tutorial; https://www.youtube.com/watch?v=lyZQa7hqoVY
