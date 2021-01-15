@@ -14,3 +14,20 @@ The main objectives of this project is to:
 - Reduce the amount of workers in the restaurant
 - Make the customers feel more comfortable at the restaurant
 
+### *FEATURES AND FUNCTIONALITIES*
+In this mobile application, all menu that are available at the mamak restaurant will be displayed for example Tandoori Chicken and Naan Cheese. Other than that, in this mobile application will need the user which is the admin of the restaurant to authenticate themselves when they want to check the summary of order and for the accountant to check the bills when customers want to pay. This requires the Firebase Cloud Firestore to authenticate the admin where they will insert the username(email) and password. Lastly, this mobile application will have all functions that will enable customers to order food from their table.
+
+### **SCREEN NAVIGATION AND WIDGETS**
+1.	Main Page
+-	Customers : Input table number
+-	Admin : Login
+2.	Dashboard
+-	Display Menus
+-	Select Menus
+3.	Order Page
+-	Order Menus
+-	Suggestion Related Menus
+-	Quantities
+-	Submit Order
+4.	Admin Page
+-	Fetch Order Data
