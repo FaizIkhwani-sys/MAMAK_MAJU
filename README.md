@@ -57,3 +57,19 @@ In this mobile application, all menu that are available at the mamak restaurant 
 7. RECOMMENDED TAB PAGE
 - ![7 recommended tab page](https://user-images.githubusercontent.com/69358635/104738773-e8513a80-5780-11eb-94e2-23395432108f.png)
 
+### *PROJECT DELEGATION*
+1. MOHAMAD FAIZ IKHWANI HAKIMI BIN MD FAZLI (1712163)
+- dashboardpage.dart page
+- submitpage.dart page
+- tandooripage.dart page
+- Constant 
+2. MUHAMAD DANIAL BIN MOHAMAD RADZI (1714493)
+- firebase
+- favouritetab.dart page
+- recommended.dart page
+- foodtab.dart page
+
+### **REFERENCES**
+- Flutter Tutorial – Cloud Firestore | Flutter Firestore CRUD | Flutter Firestrore Tutorial; https://www.youtube.com/watch?v=lyZQa7hqoVY
+- Flutter Development; https://flutter.dev/docs/development 
+
