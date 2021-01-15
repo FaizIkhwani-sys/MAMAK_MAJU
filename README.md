@@ -31,3 +31,7 @@ In this mobile application, all menu that are available at the mamak restaurant 
 -	Submit Order
 4.	Admin Page
 -	Fetch Order Data
+
+### **SEQUENCE DIAGRAM**
+![sequence diagram](https://user-images.githubusercontent.com/69358635/104737657-804e2480-577f-11eb-9a6b-a83481829b89.jpeg)
+
