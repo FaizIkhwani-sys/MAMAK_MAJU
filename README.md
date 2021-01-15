@@ -35,3 +35,10 @@ In this mobile application, all menu that are available at the mamak restaurant 
 ### **SEQUENCE DIAGRAM**
 ![sequence diagram](https://user-images.githubusercontent.com/69358635/104737657-804e2480-577f-11eb-9a6b-a83481829b89.jpeg)
 
+### **SCREEN NAVIGATION**
+1. WELCOME PAGE
+![1 welcomepage](https://user-images.githubusercontent.com/69358635/104737879-ca370a80-577f-11eb-9454-14a60b5c1dbb.png)
+
+2. ADMIN PAGE
+![2 admin welcome page](https://user-images.githubusercontent.com/69358635/104737951-dcb14400-577f-11eb-960e-488bdcb9bc40.png)
+
